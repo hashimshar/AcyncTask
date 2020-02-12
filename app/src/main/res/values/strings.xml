@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AcyncTask</string>
+    <string name="napping">AcyncTask is Loading</string>
+</resources>
